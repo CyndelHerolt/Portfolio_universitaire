@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Développer une application Web interactive on Portfolio universitaire</title>
+    <link>http://example.org/categories/d%C3%A9velopper-une-application-web-interactive/</link>
+    <description>Recent content in Développer une application Web interactive on Portfolio universitaire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 06 May 2023 18:23:53 +0200</lastBuildDate><atom:link href="http://example.org/categories/d%C3%A9velopper-une-application-web-interactive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intranet</title>
+      <link>http://example.org/posts/intranet/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/posts/intranet/</guid>
+      <description>Présentation du projet L&amp;rsquo;idée ici était de réaliser un audit rapide de l&amp;rsquo;Intranet afin de faire ressortir les potentielles faiblesses, de proposer des pistes d&amp;rsquo;amélioration et de travailler sur les problèmes existants déjà identifiés en priorisant les problématiques d&amp;rsquo;accessibilité et d&amp;rsquo;ergonomie.
+Objectifs  Identifier les problèmes d&amp;rsquo;ergonomie et d&amp;rsquo;accessibilité de l&amp;rsquo;Intranet Proposer des pistes d&amp;rsquo;amélioration Réaliser une refonte de certains éléments  Méthodologie et organisation La refonte partielle de l&amp;rsquo;Intranet est un projet qui doit m&amp;rsquo;accompagner tout au long de mon alternance en parallèle des autres projets.</description>
+    </item>
+    
+    <item>
+      <title>UniFolio</title>
+      <link>http://example.org/posts/unifolio/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/posts/unifolio/</guid>
+      <description>Présentation du projet Le projet UniFolio est né d&amp;rsquo;un constat : les étudiants de l&amp;rsquo;IUT de Troyes doivent pour la plupart créer un portfolio numérique pour valoriser leurs travaux et compétences. Mais le support utilisé est différent pour chaque département. Donc, dans une démarche d&amp;rsquo;unification et de simplification, l&amp;rsquo;IUT a décidé de créer un outil commun à tous les départements. En plus d&amp;rsquo;assurer le suivi pédagogique, cet outil permettra aux étudiants de disposer d&amp;rsquo;une vitrine a présenter aux entreprises pendant leurs recherche de stage ou d&amp;rsquo;alternance.</description>
+    </item>
+    
+    <item>
+      <title>Rédaction d&#39;une documentation pour Symfony</title>
+      <link>http://example.org/posts/symfonydoc/</link>
+      <pubDate>Sat, 06 May 2023 17:27:13 +0200</pubDate>
+      
+      <guid>http://example.org/posts/symfonydoc/</guid>
+      <description>Expliquer pour mieux comprendre Accéder au gitbook
+Démarche Au départ, j&amp;rsquo;avais pensé ce projet comme un document de révision participatif, auquel mes camarades pourraient contribuer. En associant nos forces et nos faiblesses il me semblait que nous pourrions créer un document de révision complet et efficace. Malheureusement le niveau de participation est resté à zéro, j&amp;rsquo;ai donc relativisé en me disant que la rédaction d&amp;rsquo;un document de révision est un travail personnel, si je fais les recherches et que j&amp;rsquo;écris toutes les rubriques je vais certainement mieux les comprendre et les mémoriser.</description>
+    </item>
+    
+  </channel>
+</rss>

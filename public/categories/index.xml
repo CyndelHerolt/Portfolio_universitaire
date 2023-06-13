@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Portfolio universitaire</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Portfolio universitaire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 06 May 2023 18:23:53 +0200</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Co-concevoir une réponse stratégique</title>
+      <link>http://example.org/categories/co-concevoir-une-r%C3%A9ponse-strat%C3%A9gique/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/categories/co-concevoir-une-r%C3%A9ponse-strat%C3%A9gique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprendre la stratégie de communication et l’expérience utilisateur</title>
+      <link>http://example.org/categories/comprendre-la-strat%C3%A9gie-de-communication-et-lexp%C3%A9rience-utilisateur/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/categories/comprendre-la-strat%C3%A9gie-de-communication-et-lexp%C3%A9rience-utilisateur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Développer une application Web interactive</title>
+      <link>http://example.org/categories/d%C3%A9velopper-une-application-web-interactive/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/categories/d%C3%A9velopper-une-application-web-interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entreprendre un projet au sein d’un écosystème numérique</title>
+      <link>http://example.org/categories/entreprendre-un-projet-au-sein-dun-%C3%A9cosyst%C3%A8me-num%C3%A9rique/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/categories/entreprendre-un-projet-au-sein-dun-%C3%A9cosyst%C3%A8me-num%C3%A9rique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exprimer un récit interactif et une direction artistique</title>
+      <link>http://example.org/categories/exprimer-un-r%C3%A9cit-interactif-et-une-direction-artistique/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/categories/exprimer-un-r%C3%A9cit-interactif-et-une-direction-artistique/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

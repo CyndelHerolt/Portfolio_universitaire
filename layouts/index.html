@@ -1,0 +1,58 @@
+{{ define "main" }}
+<main class="main list" role="main">
+    <div class="intro">
+        <p>L'organisation de ce recueil de travaux s'articule autour des cinq compétences majeures de la formation MMI
+            et des apprentissages critiques qui leur sont relatifs.</p>
+        <hr>
+        {{- $categories := .Site.Taxonomies.categories }}
+        {{- if gt (len $categories) 0 }}
+        <div class="widget-categories widget">
+            <div class="widget__content">
+                <ul class="widget__list">
+                    {{- range $name, $taxonomy := $categories }}
+                    {{- with $.Site.GetPage (printf "/categories/%s" $name) }}
+                    <li class="widget__item">
+                        {{- if in .Title "Entreprendre" }}
+                        <a class="widget__link" href="{{ .RelPermalink }}" style="color: #2b4c76; font-weight: bolder">{{ .Title }}</a>
+                        {{- else if in .Title "Développer" }}
+                        <a class="widget__link" href="{{ .RelPermalink }}" style="color: #416c3f; font-weight: bolder">{{ .Title }}</a>
+                        {{- else if in .Title "Comprendre" }}
+                        <a class="widget__link" href="{{ .RelPermalink }}" style="color: #9c2b26; font-weight: bolder">{{ .Title }}</a>
+                        {{- else if in .Title "Co-concevoir" }}
+                        <a class="widget__link" href="{{ .RelPermalink }}" style="color: #d07740; font-weight: bolder">{{ .Title }}</a>
+                        {{- else if in .Title "Exprimer" }}
+                        <a class="widget__link" href="{{ .RelPermalink }}" style="color: #e5b94d; font-weight: bolder">{{ .Title }}</a>
+                        {{ end -}}
+                        {{- if .Site.Params.widgets.categories_counter }}&nbsp;
+                        <span class="widget__counter widget__counter--bubble">{{ $taxonomy.Count }}</span>
+                        {{ end -}}
+                    </li>
+                    {{- end }}
+                    {{- end }}
+                </ul>
+            </div>
+        </div>
+        {{- end }}
+    </div>
+    {{- with .Content }}
+    <div class="content main__content clearfix">
+        {{ . }}
+    </div>
+    {{- end }}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+    {{- range $paginator.Pages }}
+    {{- .Render "summary" }}
+    {{- end }}
+    {{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
+    <div class="warning">
+        {{ partial "svg/files.svg" (dict "class" "warning__icon") }}
+        <h3 class="warning__headline">{{ T "noposts_warning_title" | safeHTML }}</h3>
+        <div class="warning__text">
+            <p class="warning__description">{{ T "noposts_warning_description" | safeHTML }}</p>
+            <p class="warning__tip">{{ T "noposts_warning_tip" | safeHTML }}</p>
+        </div>
+    </div>
+    {{ end }}
+</main>
+{{ partial "pagination.html" . }}
+{{ end }}

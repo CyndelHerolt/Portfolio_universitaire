@@ -1,0 +1,99 @@
+* {
+    scroll-behavior: smooth;
+    scrollbar-color: orange black;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #212121;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: orange;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #cc8608;
+}
+
+
+.intro {
+    /*border: solid 1px lightgrey;*/
+    /*padding: 25px;*/
+    margin: 0 0 50px 0;
+}
+
+.intro p {
+    margin: 0 0 15px 0;
+}
+
+.logo__img {
+    border-radius: 50%;
+}
+
+.post__header {
+    display: flex !important;
+}
+
+.post__header figure {
+    margin: 0 25px 0 0;
+}
+
+.thumbnail__image {
+    max-width: 200px;
+}
+
+h2 {
+    text-transform: uppercase;
+    border-bottom: solid 2px ;
+    /*border-top: solid 2px ;*/
+    padding: 10px 0;
+    margin-top: 75px;
+}
+
+.entreprendre {
+    color: #2b4c76 !important;
+    font-weight: bolder;
+}
+
+.developper {
+    color: #416c3f !important;
+    font-weight: bolder;
+}
+
+.comprendre {
+    color: #9c2b26 !important;
+    font-weight: bolder;
+}
+
+.concevoir {
+    color: #d07740 !important;
+    font-weight: bolder;
+}
+
+.exprimer {
+    color: #e5b94d !important;
+    font-weight: bolder;
+}
+
+.card {
+    width: 100%;
+    margin: 25px auto;
+    border: solid 1px lightgrey;
+    padding: 25px 50px;
+}
+
+/* media querie */
+
+@media (max-width: 768px) {
+    .post__header {
+        flex-direction: column-reverse !important;
+    }
+}

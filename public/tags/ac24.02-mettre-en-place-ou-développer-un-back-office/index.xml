@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AC24.02 | Mettre en place ou développer un back office on Portfolio universitaire</title>
+    <link>http://example.org/tags/ac24.02-mettre-en-place-ou-d%C3%A9velopper-un-back-office/</link>
+    <description>Recent content in AC24.02 | Mettre en place ou développer un back office on Portfolio universitaire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 06 May 2023 18:23:53 +0200</lastBuildDate><atom:link href="http://example.org/tags/ac24.02-mettre-en-place-ou-d%C3%A9velopper-un-back-office/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UniFolio</title>
+      <link>http://example.org/posts/unifolio/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/posts/unifolio/</guid>
+      <description>Présentation du projet Le projet UniFolio est né d&amp;rsquo;un constat : les étudiants de l&amp;rsquo;IUT de Troyes doivent pour la plupart créer un portfolio numérique pour valoriser leurs travaux et compétences. Mais le support utilisé est différent pour chaque département. Donc, dans une démarche d&amp;rsquo;unification et de simplification, l&amp;rsquo;IUT a décidé de créer un outil commun à tous les départements. En plus d&amp;rsquo;assurer le suivi pédagogique, cet outil permettra aux étudiants de disposer d&amp;rsquo;une vitrine a présenter aux entreprises pendant leurs recherche de stage ou d&amp;rsquo;alternance.</description>
+    </item>
+    
+  </channel>
+</rss>

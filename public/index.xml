@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio universitaire</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Portfolio universitaire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 06 May 2023 18:23:53 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intranet</title>
+      <link>http://example.org/posts/intranet/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/posts/intranet/</guid>
+      <description>Présentation du projet L&amp;rsquo;idée ici était de réaliser un audit rapide de l&amp;rsquo;Intranet afin de faire ressortir les potentielles faiblesses, de proposer des pistes d&amp;rsquo;amélioration et de travailler sur les problèmes existants déjà identifiés en priorisant les problématiques d&amp;rsquo;accessibilité et d&amp;rsquo;ergonomie.
+Objectifs  Identifier les problèmes d&amp;rsquo;ergonomie et d&amp;rsquo;accessibilité de l&amp;rsquo;Intranet Proposer des pistes d&amp;rsquo;amélioration Réaliser une refonte de certains éléments  Méthodologie et organisation La refonte partielle de l&amp;rsquo;Intranet est un projet qui doit m&amp;rsquo;accompagner tout au long de mon alternance en parallèle des autres projets.</description>
+    </item>
+    
+    <item>
+      <title>Réalisation d&#39;un spot publicitaire fictif</title>
+      <link>http://example.org/posts/video_pub/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/posts/video_pub/</guid>
+      <description>Présentation du projet En tant que créateurs de contenu, l&amp;rsquo;objectif de ce projet était de concevoir une proposition graphique et audiovisuelle sur le modèle d&amp;rsquo;une stratégie de communication. La situation de communication était imposée : Kenzo souhaite promouvoir un nouveau parfum nommé &amp;ldquo;Dream&amp;rdquo;. Il nous fallait alors analyser le contexte, comprendre les enjeux, la ligne éditoriale de la marque et définir une stratégie de communication visuelle adaptée à la situation.</description>
+    </item>
+    
+    <item>
+      <title>UniFolio</title>
+      <link>http://example.org/posts/unifolio/</link>
+      <pubDate>Sat, 06 May 2023 18:23:53 +0200</pubDate>
+      
+      <guid>http://example.org/posts/unifolio/</guid>
+      <description>Présentation du projet Le projet UniFolio est né d&amp;rsquo;un constat : les étudiants de l&amp;rsquo;IUT de Troyes doivent pour la plupart créer un portfolio numérique pour valoriser leurs travaux et compétences. Mais le support utilisé est différent pour chaque département. Donc, dans une démarche d&amp;rsquo;unification et de simplification, l&amp;rsquo;IUT a décidé de créer un outil commun à tous les départements. En plus d&amp;rsquo;assurer le suivi pédagogique, cet outil permettra aux étudiants de disposer d&amp;rsquo;une vitrine a présenter aux entreprises pendant leurs recherche de stage ou d&amp;rsquo;alternance.</description>
+    </item>
+    
+    <item>
+      <title>Alternance</title>
+      <link>http://example.org/posts/alternance/</link>
+      <pubDate>Sat, 06 May 2023 17:27:13 +0200</pubDate>
+      
+      <guid>http://example.org/posts/alternance/</guid>
+      <description>L&amp;rsquo;entreprise L&amp;rsquo;IUT de Troyes Etablissement public national à caractère scientifique, culturel et professionnel. Avec pour ambition une formation technologique de haut niveau, appuyée sur un lien fort à la recherche et un partenariat permanent avec le monde professionnel, l&amp;rsquo;IUT de Troyes propose des formations professionnalisantes en 3 ans après le bac (BUT). Il accueille chaque année plus de 1 000 étudiants dans 6 départements de formation : Génie Mécanique et Productique, Génie Electrique Informatique et Industriel, Gestion des Entreprises et des Administrations, Carrières Juridiques, Techniques de commercialisation et Métiers du Multimédia et de l&amp;rsquo;Internet.</description>
+    </item>
+    
+    <item>
+      <title>Développer pour un établissement d&#39;enseignement superieur</title>
+      <link>http://example.org/posts/devetablissementsup/</link>
+      <pubDate>Sat, 06 May 2023 17:27:13 +0200</pubDate>
+      
+      <guid>http://example.org/posts/devetablissementsup/</guid>
+      <description>Les outils numériques doivent être adaptés à tous les profils d&amp;rsquo;utilisateurs. D&amp;rsquo;où la nécessité de privilégier la simplicité d&amp;rsquo;utilisation, l&amp;rsquo;accessibilité et l&amp;rsquo;ergonomie.</description>
+    </item>
+    
+    <item>
+      <title>Rédaction d&#39;une documentation pour Symfony</title>
+      <link>http://example.org/posts/symfonydoc/</link>
+      <pubDate>Sat, 06 May 2023 17:27:13 +0200</pubDate>
+      
+      <guid>http://example.org/posts/symfonydoc/</guid>
+      <description>Expliquer pour mieux comprendre Accéder au gitbook
+Démarche Au départ, j&amp;rsquo;avais pensé ce projet comme un document de révision participatif, auquel mes camarades pourraient contribuer. En associant nos forces et nos faiblesses il me semblait que nous pourrions créer un document de révision complet et efficace. Malheureusement le niveau de participation est resté à zéro, j&amp;rsquo;ai donc relativisé en me disant que la rédaction d&amp;rsquo;un document de révision est un travail personnel, si je fais les recherches et que j&amp;rsquo;écris toutes les rubriques je vais certainement mieux les comprendre et les mémoriser.</description>
+    </item>
+    
+  </channel>
+</rss>
