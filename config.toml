@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'fr-fr'
 title = 'Portfolio universitaire'
-theme = "mainroad"
+theme = "themes/mainroad"
 
 [Author] # Used in authorbox
 name = "John Doe"
