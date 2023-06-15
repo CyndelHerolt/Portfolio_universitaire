@@ -12,8 +12,10 @@ tags: [
   "AC21.01 | Analyser la stratégie de communication ou marketing d’un acteur, d’une organisation au regard d’un secteur ou d’un marché (stratégie, mission, valeurs...)",
   "AC22.01 | Co-concevoir un produit ou un service (proposition de valeur, fonctionnalités...)",
   "AC23.02 | Définir une iconographie (illustrations, photographies, vidéos)",
+  "AC23.03 | Créer et décliner une identité visuelle (charte graphique)",
   "AC23.04 | Imaginer, écrire et scénariser en vue d’une communication multimédia ou transmédia",
   "AC23.05 | Réaliser, composer et produire pour une communication plurimédia",
+  "AC23.06 | Élaborer et produire des animations, des designs sonores, des effets spéciaux, de la visualisation de données ou de la 3D",
   "AC25.01 | Gérer un projet avec une méthode d’amélioration continue par exemple une méthode agile",
   "AC25.02 | Cartographier un écosystème (identification des acteurs, synthèse des propositions de valeur)"
 ]
@@ -116,13 +118,71 @@ Nous avons alors entamé un **processus de réflexion et d'écriture commun** av
 La difficulté était d'évoquer le sommeil et les rêves **sans tomber dans le cliché du DeusExMachina de la jeune femme qui se réveille et qui réalise que tout n'était qu'un rêve**. 
 Afin de ne pas tomber dans ce piège, nous avons décidé d'exploiter les valeurs d'optimisme et de joie de vivre de la marque :
 
-- Ses déplacements font office de **parcours initiatique** pour elle alors qu'au début du spot, elle arbore un air triste presque vide, elle finit par s'ouvrir et sourire à la fin du spot après s'être imprégnée de **l'atmosphère mystérieuse et onirique du lieu** dans lequel elle semble parfaitement avoir sa place.
+- Ses déplacements font office de **parcours initiatique** pour elle alors qu'au début du spot, elle arbore un air triste presque vide, elle finit par s'ouvrir et sourire après s'être imprégnée de **l'atmosphère mystérieuse et onirique du lieu** dans lequel elle semble parfaitement avoir sa place.
 
 Cette atmosphère, nous l'avons créée en jouant avec les lumières et les ombres, en proposant des plans serrés dans un décor plongé dans le noir et parsemé de leds violettes qui rappellent la couleur de l'améthyste. Un décor qui se veut minimaliste, dont l'éclairage évoque la nuit de manière irréaliste tout en **facilitant la réalisation** (l'ensemble est tourné au studio).
 
+Enfin, pour la post-production, j'étais en charge des choix artistiques et de la réalisation du montage. **La difficulté principale que j'ai rencontrée a été la gestion de la durée de la vidéo**. En effet, nous avions tourné beaucoup de plans et il a fallu faire des choix pour ne pas dépasser les 30 secondes imposées. J'ai donc dû faire les choix artistiques et techniques en conséquence.
+
+Ayant eu pour habitude par le passé de participer à des montages et de visionner une quantité astronomique de vidéos de skate, j'ai décidé de **m'inspirer de ce type de montage** pour le spot publicitaire. Un rythme soutenu, une succession de plans courts qui permettent de garder l'attention du spectateur tout en lui permettant de s'immerger dans l'atmosphère du spot et des superpositions d'images accompagnées d'effets (flou, saturation, etc.) qui apportent de l'originalité et du dynamisme à la vidéo.
+
+<div style="display: flex"> 
+<figure style="width: 50%">
+<figcaption>Vidéo d'inspiration n°1 - Extrait d'un projet cinématographique de grande envergure rassemblant les grands noms du filming</figcaption>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hMyMAT5-3UE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
+<figure style="width: 50%">
+<figcaption>Vidéo d'inspiration n°2 - Réalisée par l'association troyenne de skate Citizen Skate dont j'étais membre (filmée et montée par un ancien MMI 😉)</figcaption>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J1V01A0ZgO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
+</div>
+
+Le choix de la musique a été un élément important dans la réalisation du spot publicitaire. J'ai sélectionné quelques morceaux qui me semblaient correspondre à l'atmosphère que nous souhaitions créer - des sonorités électroniques, orientées pour un public jeune et qui n'avaient pas déjà été entendues dans d'autres publicités - et j'ai **procédé par élimination** en appliquant les morceaux à un assemblage primitif des rushes.
+
+<div style="display: flex; align-items: center"> 
+<figure style="width: 30%">
+<figcaption>Musique sélectionnée</figcaption>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3gGMsx3jxYKfhXq8LMj1tz?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</figure>
+<figure style="width: 70%">
+<figcaption>Parmis cette pré-sélection</figcaption>
+<img src="/img/playlist.png">
+</figure>
+</div>
+
+<a href="https://www.youtube.com/watch?v=n8skTH8Z-sk&ab_channel=NepSam" target="_blank">Rendu final de la vidéo</a>
 
 ### Réalisation graphique du surpackaging
 
-### Réalisation du spot publicitaire
+Cette étape était à la charge d'un autre membre du groupe, Elane, avec qui nous avions convenu d'une **directive de production** : faire simple.
+Alors qu'elle rencontrait des difficultés sur la conception du patron du surpackaging, j'ai décidé de lui apporter mon aide en lui proposant quelques exemples trouvés sur pinterest.
 
-https://www.youtube.com/watch?v=n8skTH8Z-sk&ab_channel=NepSam
+<figure>
+<figcaption>Sa première proposition graphique</figcaption>
+<img src="/img/kenzo_surpackaging1.png">
+</figure>
+<figure>
+<figcaption>Extrait de conversation</figcaption>
+<img src="/img/kenzo_surpackaging_discord.png">
+</figure>
+
+Le surpackaging est un élément important dans la communication d'un produit. Il permet de **renforcer l'identité visuelle** du produit et de **transmettre des informations** complémentaires à celles présentes sur le flacon. Il semble donc **important de ne pas négliger cette étape**. La proposition graphique d'Elane était malheureusement trop simple et ne mettait pas en valeur le produit. J'ai donc décidé d'également proposer une version du surpackaging et de laisser le choix à Elane de reprendre l'une ou l'autre des propositions. 
+
+En m'inspirant d'un packaging de parfum que j'avais trouvé sur pinterest, j'ai réalisé une proposition graphique qui reprenait les codes de la marque Kenzo tout en mettant en valeur le produit (logo, simple avec une petite touche de couleur qui ressort). J'ai également ajouté les données à caractère informatif (nom du parfum, quantité, composition etc.).
+C'est finalement ma proposition qui a été retenue par le groupe ; sans rancune puisque Elane a admis ne pas avoir pris le temps de réellement travailler sur le surpackaging et n'était donc elle-même pas satisfaite de sa proposition.
+
+<div style="display: flex; align-items: flex-start"> 
+<figure style="width: 40%">
+<figcaption>Musique sélectionnée</figcaption>
+<img src="/img/kenzo_surpackaging_inspi.png">
+</figure>
+<figure style="width: 60%">
+<figcaption>Parmis cette pré-sélection</figcaption>
+<img src="/img/kenzo_surpackaging.png">
+</figure>
+</div>
+
+### Retour d'expérience
+
+Réaliser ce projet s'est révélé être **une expérience enrichissante**. J'ai pu mettre en pratique les compétences en graphisme acquises au cours de ma formation et j'ai également pu en apprendre davantage sur le statut de chef de projet. J'ai d'ailleurs surtout tiré de cet exercice la conclusion que j'ai **beaucoup de progrès à faire sur les travaux de groupe**. J'ai tendance à vouloir tout faire moi-même, à ne pas laisser assez de liberté aux autres membres du groupe et à porter un avis parfois trop critique sur le travail des autres.
+

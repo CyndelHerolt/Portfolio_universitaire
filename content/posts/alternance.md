@@ -4,8 +4,9 @@ date: 2023-05-06T17:27:13+02:00
 categories: ["Entreprendre un projet au sein d’un écosystème numérique"]
 lead: "Des informations sur mon entreprise d'accueil, mes missions et mon retour d'expérience"
 description: "Employée par l'URCA au sein du service informatique de l'IUT ; je participe à la mission pédagogique des services numériques en portant une réflexion sur la qualité et l'ergonomie des outils existants et en développant un outil de création de portfolio numérique à destination des étudiants et des enseignants."
-tags: ["AC25.02 | Cartographier un écosystème (identification des acteurs, synthèse des propositions de valeur)
-"]
+tags: [ 
+"AC25.02 | Cartographier un écosystème (identification des acteurs, synthèse des propositions de valeur)"
+]
 #draft: true
 ---
 

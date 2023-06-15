@@ -6,11 +6,11 @@ lead: "Développpement d'un outil de création de portfolios universitaires à d
 description: "à compléter"
 placeholder: "assets/logo.png"
 tags: [
+  "AC22.01 | Co-concevoir un produit ou un service (proposition de valeur, fonctionnalités...)",
   "AC24.01 | Produire des pages et applications Web responsives",
   "AC24.02 | Mettre en place ou développer un back office",
   "AC24.03 | Intégrer, produire ou développer des interactions riches ou des dispositifs interactifs",
   "AC24.04 | Modéliser les traitements d’une application Web",
-  "AC22.01 | Co-concevoir un produit ou un service (proposition de valeur, fonctionnalités...)",
   "AC25.01 | Gérer un projet avec une méthode d’amélioration continue par exemple une méthode agile",
   "AC25.04 | Collaborer au sein des organisations",
 ]

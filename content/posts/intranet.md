@@ -6,11 +6,14 @@ lead: "Dans une démarche d'optimisation de l'intranet de l'IUT, j'entretiens un
 description: "Découverte d'un code complexe et dense. Sensibilisation aux problématiques d'ergonomie et d'accessibilité des sites web."
 placeholder: "assets/logo.png"
 tags: [
+  "AC21.03 | Traiter des données avec des outils statistiques pour faciliter leur analyse et leur exploitation",
+  "AC21.04 | Identifier et décrire les parcours client à partir d’enquêtes de terrain", 
+  "AC21.05 | Cartographier les expériences utilisateur : points de contact, points de friction et de satisfaction, carte d’empathie.",
+  "AC22.02 | Produire une recommandation ergonomique à partir des tests utilisateurs (sur système fonctionnel, prototype ou maquette interactive)",
+  "AC22.03 | Co-construire une recommandation stratégique (en structurant un plan d’action)",
   "AC24.03 | Intégrer, produire ou développer des interactions riches ou des dispositifs interactifs",
   "AC24.01 | Produire des pages et applications Web responsives",
   "AC25.04 | Collaborer au sein des organisations",
-  "AC21.03 | Traiter des données avec des outils statistiques pour faciliter leur analyse et leur exploitation",
-  "AC21.05 | Cartographier les expériences utilisateur : points de contact, points de friction et de satisfaction, carte d’empathie.",
 ]
 #draft: true
 ---
@@ -96,7 +99,7 @@ j'ai tendance à tort, à laisser traîner ce projet.
 
 ### Refonte du formulaire de stage
 
-La saisie des informations de stage par les étudiants se faisait via *un formulaire fastidieux, peu ergonomique** et il
+La saisie des informations de stage par les étudiants se faisait via **un formulaire fastidieux, peu ergonomique** et il
 n'y
 avait **pas de vérification des données saisies**, ce qui entraînait de nombreuses erreurs. L'objectif était donc de
 rendre ce formulaire plus ergonomique et plus accessible en le divisant en plusieurs étapes et en ajoutant des
@@ -240,9 +243,7 @@ window.addEventListener('load', () => {
         let dateDebutStage = document.getElementById('form_type_stage_date_debut_stage').value
         let dateFinStage = document.getElementById('form_type_stage_date_fin_stage').value
 
-        fetch('{{ path('
-        calendar
-        ') }}', {
+        fetch('{{ path('calendar') }}', {
             method: 'Post',
             body: JSON.stringify({date1: dateDebutStage, date2: dateFinStage}),
         }
