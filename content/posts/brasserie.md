@@ -90,5 +90,23 @@ Nous échangeons donc par WhatsApp afin de s'accorder sur les détails de chaque
 <img src="/img/brasserie_msg.png" alt="aperçu d'un echange" style="width: 100%">
 </figure>
 
-
 ### Réalisation de visuels
+
+#### Premier visuel pour un post Instagram
+
+La réalisation de ce visuel a fait office de premier contact avec le client. Je disposais de **très peu d'informations** ci ce n'est que le post devait informer la clientèle que la brasserie assurerait un service du soir pendant l'été. A ce moment là, je n'échangeais pas encore directement avec le client, j'avais un intermédiaire qui me transmettait les informations.
+Avec aussi **peu de temps et d'informations** pour réaliser ce visuel, je n'ai pas perdu de temps avec une recherche graphique approfondie. J'ai préféré le construire en adoptant les idées qui me passaient par la tête sur le moment ; en m'assurant tout de même que ces idées étaient en accord avec le milieu de la restauration et avec l'identité de l'entreprise.
+J'ai donc décidé de produire deux visuels différents afin qu'il puisse choisir celui qui lui conviendrait le mieux. Cela m'a permis de **lui montrer que je pouvais m'adapter à ses demandes** et que je pouvais lui proposer plusieurs visuels différents tout en me donnant une idée du genre d'identité visuelle qui pourrait lui convenir pour la suite du projet.
+
+Pour réaliser ces visuels, j'ai utilisé **Adobe Illustrator** pour la création des formes et des textes et **Adobe Photoshop** pour l'ajout des effets et des filtres. J'ai décidé d'incorporer l'illustration d'un auvent rayé pour rappeler les terrasses de café et de restaurant car l'annonce entrait dans le cadre d'un service du soir estival. 
+
+<div style="display: flex"> 
+<figure style="width: 50%">
+<figcaption>Premier visuel proposé</figcaption>
+<img src="/img/brasserie1.png" alt="aperçu instagram La Barge" style="width: 100%">
+</figure>
+<figure style="width: 50%">
+<figcaption>Deuxième visuel proposé</figcaption>
+<img src="/img/brasserie2.png" alt="aperçu du site web de Chez Axelle" style="width: 100%">
+</figure>
+</div>
