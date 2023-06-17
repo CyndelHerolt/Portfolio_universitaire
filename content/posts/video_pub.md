@@ -3,7 +3,7 @@ title: "Réalisation d'un spot publicitaire fictif"
 date: 2023-31-05
 categories: [ "Comprendre la stratégie de communication et l’expérience utilisateur",
               "Co-concevoir une réponse stratégique",
-              "Exprimer un récit interactif et une direction artistique",
+              "Exprimer une identité visuelle et éditoriale transmédia",
               "Entreprendre un projet au sein d’un écosystème numérique"
 ]
 lead: "Dans le cadre d'une SAE (situation d'apprentissage et d'évaluation) j'ai réalisé en groupe un spot publicitaire et une proposition graphique pour un produit fictif de la marque Kenzo"
