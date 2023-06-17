@@ -1,6 +1,6 @@
 ---
 title: "UniFolio"
-date: 2023-05-06T18:23:53+02:00
+date: 2023-03-06
 categories: [ "Développer une application Web interactive","Co-concevoir une réponse stratégique","Entreprendre un projet au sein d’un écosystème numérique" ]
 lead: "Développpement d'un outil de création de portfolios universitaires à destination des étudiants et permettant le suivi pédagogique et l'évaluation par les enseignants"
 description: "à compléter"

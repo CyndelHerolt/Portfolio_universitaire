@@ -1,6 +1,6 @@
 ---
 title: "Réalisation d'un spot publicitaire fictif"
-date: 2023-05-06T18:23:53+02:00
+date: 2023-31-05
 categories: [ "Comprendre la stratégie de communication et l’expérience utilisateur",
               "Co-concevoir une réponse stratégique",
               "Exprimer un récit interactif et une direction artistique",

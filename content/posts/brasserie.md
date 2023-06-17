@@ -1,6 +1,6 @@
 ---
 title: "Partenariat avec La Brasserie"
-date: 2023-05-06T18:23:53+02:00
+date: 2023-01-06
 categories: [ "Entreprendre un projet au sein d’un écosystème numérique", "Co-concevoir une réponse stratégique", "Exprimer une identité visuelle et éditoriale transmédia" ]
 lead: "Mise en place d'un projet sur le long terme avec \"La Brasserie\", une entreprise locale."
 description: "Création d'une identité visuelle et de supports de communication, réflexion sur la stratégie de communication, création d'un site web, ..."

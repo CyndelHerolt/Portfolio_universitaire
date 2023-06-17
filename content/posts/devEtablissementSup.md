@@ -1,6 +1,6 @@
 ---
 title: "Développer pour un établissement d'enseignement superieur"
-date: 2023-05-06T17:27:13+02:00
+date: 2023-05-06
 categories: [ "Entreprendre un projet au sein d’un écosystème numérique", "Co-concevoir une réponse stratégique" ]
 lead: "Une réflexion autour de la problématique du développement pour un établissement d'enseignement supérieur."
 description: "à compléter"

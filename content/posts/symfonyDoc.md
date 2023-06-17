@@ -1,6 +1,6 @@
 ---
 title: "Rédaction d'une documentation pour Symfony"
-date: 2023-05-06T17:27:13+02:00
+date: 2023-02-06
 categories: [ "Comprendre la stratégie de communication et l’expérience utilisateur", "Développer une application Web interactive" ]
 lead: "Création d'un gitbook de documentation technique pour le framework Symfony à l'aide des cours de l'IUT et de la documentation officielle faisant office de document de révision."
 description: "Créer ce gitbook m'a permis de mieux comprendre le fonctionnement du framework Symfony et de me familiariser avec la documentation technique au rythme de mon apprentissage. La reformulation des cours et de la documentation officielle m'amène à mieux comprendre les concepts et à les mémoriser."

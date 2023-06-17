@@ -1,6 +1,6 @@
 ---
 title: "Intranet"
-date: 2023-05-06T18:23:53+02:00
+date: 2023-04-06
 categories: [ "Développer une application Web interactive", "Comprendre la stratégie de communication et l’expérience utilisateur" ]
 lead: "Dans une démarche d'optimisation de l'intranet de l'IUT, j'entretiens une réflexion globale sur les problématiques d'ergonomie et d'accessibilité et entame la refonte de certains éléments."
 description: "Découverte d'un code complexe et dense. Sensibilisation aux problématiques d'ergonomie et d'accessibilité des sites web."
