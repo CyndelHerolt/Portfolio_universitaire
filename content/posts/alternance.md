@@ -18,6 +18,8 @@ tags: [
 <br>
 <br>
 
+<a href="/files/presentation_IUT.pdf" target="_blank" title="présentation de l'IUT"><button>Présentation PDF de l'entreprise</button></a>
+
 ### L'IUT de Troyes
 ##### Etablissement public national à caractère scientifique, culturel et professionnel.
 
@@ -125,11 +127,11 @@ Optimisation de l'intranet de l'IUT, réflexion globale sur les problématiques 
 
 ### Retour d'expérience
 
-Tout d'abord il est important de préciser que réaliser mes deux années d'alternance au sein de l'IUT de Troyes n'était pas un choix par défaut. En effet, j'ai toujours eu envie de travailler dans un environnement universitaire. J'ai donc postulé à l'IUT de Troyes en premier choix et mis en péril une opportunité avec une entreprise privée car l'ouverture du poste d'alternant n'était pas une certitude avant le mois de juillet 2022. C'est donc avec une grande satisfaction que j'ai rejoins les rangs de l'IUT.
+Tout d'abord il est important de préciser que réaliser mes deux années d'alternance au sein de l'IUT de Troyes n'était pas un choix par défaut. J'ai toujours eu envie de travailler dans un environnement universitaire/scolaire. J'ai donc postulé à l'IUT de Troyes en premier choix et mis en péril une opportunité avec une entreprise privée car l'ouverture du poste d'alternant n'était pas une certitude avant le mois de juillet 2022. C'est donc avec une grande satisfaction que j'ai rejoins les rangs de l'IUT.
 
-C'est un environnement qui m'est familier puisque j'arpente avec plaisir les couloirs de l'IUT depuis 2019 et ces deux années d'alternance m'ont permis de découvrir les coulisses de l'établissement. De ce côté là, aucune surprise, j'ai retrouvé la même bienveillance en tant qu'employée qu'en tant qu'étudiante. J'étais également rassurée de pouvoir travailler au contact de personnes que je connaissais déjà.
+C'est un environnement qui m'est familier puisque j'arpente avec plaisir les couloirs de l'IUT depuis 2019 et cette année d'alternance m'a permis de découvrir les coulisses de l'établissement. De ce côté là, aucune surprise, j'ai retrouvé la même bienveillance en tant qu'employée qu'en tant qu'étudiante. J'étais également rassurée de pouvoir travailler au contact de personnes que je connaissais déjà.
 
-Bien que le travail en autonomie ne me fasse pas peur, j'ai appréhendé le fait de travailler seule sur un projet car le service informatique ne comprenait pas de "développeur web" à proprement parler. Même si ils ont tous de compétences dans ce domaine, leur spécialité tend plus à l'informatique et la gestion de réseau et ils ne maîtrisent pas forcément les langages et outils que j'allais devoir utiliser. 
+Bien que le travail en autonomie ne me fasse pas peur, j'ai appréhendé le fait de travailler seule sur un projet car le service informatique ne comprenait pas de "développeur web" à proprement parler. Même si ils ont tous des compétences dans ce domaine, leur spécialité tend plus à l'informatique et la gestion de réseau et ils ne maîtrisent pas forcément les langages et outils que j'allais devoir utiliser. 
 J'ai donc été agréablement surprise de constater que mon tuteur d'alternance était David Annebicque (enseignant en développement web) et qu'il était très disponible et à l'écoute. Il m'a beaucoup accompagné et conseillé dans mon apprentissage et la réalisation de mes missions.
 
 Je dispose d'une grande liberté dans la réalisation de mes missions. J'ai pu mener mes projets de A à Z, de la réflexion à la mise en oeuvre. J'ai également pu proposer des solutions et des améliorations à des problématiques existantes. J'ai donc pu développer mon sens de l'initiative et de l'innovation. J'en ai tiré un épanouisement personnel et professionnel que je n'avais pas encore expériencé.
@@ -138,9 +140,11 @@ Un de mes grands défis pendant cette année d'alternance a été d'apprendre à
 Chose qui a été particulièrement compliquée car j'ai tendance à ne pas lâcher prise et à garder la tête dans le guidon en permanence. J'ai donc dû faire preuve d'organisation et de rigueur mais également de recul afin de ne pas négliger mes cours au profit de mes missions professionnelles. Même si des imperfections subsistent, je suis satisfaite de mon évolution sur ce point.
 
 Enfin, j'ai pu développer mes compétences techniques et mes connaissances dans le domaine du développement web bien au delà de ce que j'aurai pu apprendre seulement par les enseignements universitaires. J'ai également pu découvrir de nouveaux outils et langages de programmation et je pense avoir énormément progressé aussi bien dans la théorie que dans la pratique.
-J'espère que l'année prochaine se déroulera aussi bien que celle-ci et peut-être décrocherai-je une embauche à la fin de ces deux années d'alternance.
+J'espère que l'année prochaine se déroulera aussi bien que celle-ci.
 
-
-<a href="/files/presentation_IUT.pdf" target="_blank" title="présentation de l'IUT"><button>Présentation PDF</button></a>
+<figure>
+<figcaption>Compte-rendu de l'année d'alternance</figcaption>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="/files/cr_entreprise.pdf" allowfullscreen></iframe>
+</figure>
 
 <hr>
