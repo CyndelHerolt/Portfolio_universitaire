@@ -33,7 +33,7 @@ Dans un premier temps, l'entreprise souhaite que je réalise des visuels essenti
 
 #### Méthodologie et organisation
 
-De part mon emploi du temps plutôt chargé, nous avons convenu que **les missions seraient ponctuelles** et que je travaillerais sur les projets **en fonction de mes disponibilités** ; le fait que le projet débute en période estivale est un avantage car je suis plus disponible (alternance en télétravail). Nos échanges se font principalement par mail et par WhatsApp, le client m'envoi sa demande et les informations nécessaires et je lui envoie l'évolution des visuels afin qu'il puisse sélectionner ceux qui lui conviennent.
+De part mon emploi du temps plutôt chargé, nous avons convenu que **les missions seraient ponctuelles** et que je travaillerais sur les projets **en fonction de mes disponibilités** ; le fait que le projet débute en période estivale est un avantage car je suis plus disponible (alternance en télétravail). Nos échanges se font principalement par mail et par WhatsApp, le client m'envoie sa demande et les informations nécessaires et je lui envoie l'évolution des visuels afin qu'il puisse sélectionner ceux qui lui conviennent.
 
 ### Technologies utilisées
 
@@ -53,9 +53,7 @@ De part mon emploi du temps plutôt chargé, nous avons convenu que **les missio
 
 ### Analyse de l'entreprise
 
-En me rendant plusieurs fois sur place, j'ai pu constater que La Brasserie est une entreprise familiale au centre ville de Troyes (quartier Turenne) majoritairement fréquentée par des habitués, les commerçants et les habitants du quartier. Il y règne une ambiance conviviale et chaleureuse.
-
-Une analyse rapide de leurs réseaux sociaux m'a permis de constater qu'elle n'engendre pas un grand taux d'engagement et que les visuels utilisés ne sont pas cohérents entre eux.
+Une analyse rapide de leurs réseaux sociaux m'a permis de constater qu'**elle n'engendre pas un grand taux d'engagement** et que les **visuels utilisés ne sont pas cohérents** entre eux.
 Ils sont présents sur les réseaux sociaux (Facebook et Instagram) mais n'ont plus de site web depuis plusieurs années.
 
 J'ai remarqué que leur force réside dans le fait qu'un grand nombre de chefs d'entreprise et de commerçants du centre ville se rendent à La Brasserie pour déjeuner ou pour prendre un café. C'est un lieu de rencontres et d'échanges. Cette entreprise est donc un acteur important du quartier et de la ville de Troyes. Peut-être que cela pourrait être un axe de communication intéressant à exploiter.
@@ -63,7 +61,7 @@ J'ai remarqué que leur force réside dans le fait qu'un grand nombre de chefs d
 ### Analyse sectorielle et concurrentielle
 
 Afin de mieux comprendre le secteur d'activité de l'entreprise, j'ai réalisé une analyse sectorielle et concurrentielle. 
-Pour y parvenir, j'ai sélectionné 5 entreprises du même secteur d'activité situés également au centre ville de Troyes et j'ai analysé leurs réseaux sociaux et leurs sites web. 
+Pour cela, j'ai **sélectionné 5 entreprises** du même secteur d'activité situées également au centre ville de Troyes et j'ai **analysé leurs réseaux sociaux** et leurs sites web. 
 J'ai pu constater que le secteur de la restauration est très concurrentiel et que les entreprises qui réussissent sont celles qui ont une identité forte et qui savent la communiquer.
 
 <div style="display: flex"> 
@@ -79,11 +77,10 @@ J'ai pu constater que le secteur de la restauration est très concurrentiel et q
 
 ### Echange avec le client pour définir les besoins
 
-J'ai échangé avec le client afin de définir ses besoins et ses attentes après avoir réalisé un premier visuel pour un post instagrame. 
-Après m'avoir demandé quel était mon coeur de métiers et quels étaient mes compétences annexes, il m'a expliqué qu'il souhaitait que je réalise des visuels pour les réseaux sociaux et les cartes (menus, boissons ...). Il m'a également précisé qu'il souhaitait que je réalise des visuels pour des évènements spéciaux (fête de la musique, concerts...). Mais il a également évoqué la possibilité à terme, de créer un site web et une charte graphique.
-Il semblait confiant mais il m'a également précisé qu'il n'avait pas de budget défini pour le moment et qu'il souhaitait que je lui propose un devis pour chaque projet.
+J'ai échangé avec le client afin de **définir ses besoins et ses attentes** après avoir réalisé un premier visuel pour un post instagrame. 
+Après m'avoir demandé quel était mon coeur de métier et quels étaient mes compétences annexes, il m'a expliqué qu'il souhaitait que je réalise des visuels pour les réseaux sociaux et les cartes (menus, boissons ...), des visuels pour des évènements spéciaux (fête de la musique, concerts...)mais il a également évoqué la possibilité à terme, de créer un site web et une charte graphique.
 
-Nous échangeons donc par WhatsApp afin de s'accorder sur les détails de chaque projet. Il m'envoi les informations nécessaires et je lui envoi l'évolution des visuels afin qu'il puisse sélectionner ceux qui lui conviennent.
+Nous échangeons donc par WhatsApp afin de **s'accorder sur les détails** de chaque projet. Il m'envoie les informations nécessaires et je lui envoie l'évolution des visuels afin qu'il puisse sélectionner ceux qui lui conviennent.
 
 <figure>
 <figcaption>Echange via WhatsApp avec le client</figcaption>
